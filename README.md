@@ -1,4 +1,4 @@
-# k10gcode-fix
+# k10-3dprinter-gcode-fix
 
 A small EasyThreed K10 G-code fixer that patches Cura-generated files with startup temperature, effective Z-offset, and first-layer speed adjustments while preserving the original file.
 
